@@ -25,5 +25,3 @@ Objective:
 
 Bonus Question: Do zero ratings hold any truth or are they completely false?
 
-
-
